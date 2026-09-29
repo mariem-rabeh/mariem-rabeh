@@ -63,10 +63,6 @@ A vector drawing language inspired by Logo's turtle, with an integrated web IDE.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Flex/Bison](https://img.shields.io/badge/Flex_+_Bison-555555?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black)
 **[View Repository →](https://github.com/mariem-rabeh/DrawLang)**
 
-### 🖥️ [OS-PROJECT: Process Scheduling Simulator](https://github.com/mariem-rabeh/OS-PROJECT)
-Simulator of process scheduling algorithms with a GTK3 interface: **FIFO, Round Robin (configurable quantum), SRT and preemptive priority**, with an animated Gantt chart (Cairo) and average turnaround/waiting-time statistics.
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![GTK3](https://img.shields.io/badge/GTK3-4A86CF?style=flat-square) ![Cairo](https://img.shields.io/badge/Cairo-555555?style=flat-square) ![Make](https://img.shields.io/badge/Make-555555?style=flat-square)
-**[View Repository →](https://github.com/mariem-rabeh/OS-PROJECT)**
 
 ### 📁 More repositories
 
@@ -74,7 +70,6 @@ Simulator of process scheduling algorithms with a GTK3 interface: **FIFO, Round 
 |---|---|---|
 | [Moteur-de-Recherche](https://github.com/mariem-rabeh/Moteur-de-Recherche) | Java | Contains a `morphology-app` module <!-- add a one-line description --> |
 | [gestion-formation](https://github.com/mariem-rabeh/gestion-formation) | JavaScript | Front-end + application folders <!-- add a one-line description --> |
-| [project-feder-](https://github.com/mariem-rabeh/project-feder-) | HTML, PHP | Fork of AzizSdiri1/project-feder-: shop, cart, product, login and register pages |
 
 ---
 
