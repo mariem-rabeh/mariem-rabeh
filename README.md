@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariem-rabeh-200bb4261/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge" alt="Email"></a>
+  <a href="mailto:mariamrabah002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge" alt="Email"></a>
 </p>
 
 ---
@@ -92,4 +92,3 @@ Simulator of process scheduling algorithms with a GTK3 interface: **FIFO, Round 
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [mariem-rabeh](https://www.linkedin.com/in/mariem-rabeh-200bb4261/)
-- 📧 Email: YOUR_EMAIL@example.com
