@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariem-rabeh&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariem-rabeh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
