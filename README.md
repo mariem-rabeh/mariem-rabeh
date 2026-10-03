@@ -2,14 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:58A6FF&height=200&section=header&text=Hi,%20I'm%20Mariam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20%2B%20Software%20Development&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+%7C+Computer+Vision+%7C+LLMs+%7C+RAG;Building+intelligent+software+solutions;Looking+for+internship+and+junior+opportunities;Always+building%2C+always+learning" alt="Typing SVG" />
-
-<a href="https://github.com/mariem-rabeh">
-  <img src="https://komarev.com/ghpvc/?username=mariem-rabeh&label=Profile+Views&color=58A6FF&style=flat" />
-</a>
-<a href="https://github.com/mariem-rabeh?tab=followers">
-  <img src="https://img.shields.io/github/followers/mariem-rabeh?label=Followers&style=flat&color=58A6FF" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+%7C+Computer+Vision+%7C+Agentic+AI+%7C+MLOps;Building+intelligent+software+solutions;Exploring+AI+agents+and+ML+in+production;Looking+for+internship+and+junior+opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -19,6 +12,7 @@
 
 - 🎓 Software Engineering student at **ISI Ariana**, Tunisia
 - 🤖 Passionate about **AI, machine learning and computer vision**, with a focus on real-world applications
+- 🧭 Interested in **agentic AI** (LLM agents, tool use, orchestration) and **MLOps** (taking models from notebook to production)
 - ⚙️ I enjoy working across the stack: data, models, backend APIs, web interfaces and systems programming
 - 🧩 Curious about how things work under the hood, from compilers to low-level C
 - 🔎 Looking for internship and junior opportunities in software engineering and AI/ML
@@ -65,11 +59,20 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools" />
 
+**Currently exploring (Agentic AI / MLOps)**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 <br>
 
 ## 🚀 What I Do
 
 - 🧠 Build **AI-powered applications**, from data preparation to a working end-to-end solution
+- 🤝 Explore **agentic AI**: LLM agents, tool calling and multi-step workflows
+- 🚢 Learn **MLOps** practices to deploy, monitor and maintain models in production
 - 👁️ Develop **real-time computer vision** systems
 - 🌐 Design **backend services and web interfaces** that make models and tools usable
 - 🔧 Explore **language and systems programming**, including how compilers work
@@ -80,18 +83,16 @@
 
 ## 🌱 Currently Learning
 
-- Real-time computer vision and pose estimation
-- Image annotation and data quality control
-- IoT and cloud AI pipelines
+- **Agentic AI**: LLM agents, tool calling, multi-step workflows
+- **MLOps**: deploying, monitoring and maintaining ML models in production
 - LLM-based applications and retrieval-augmented generation (RAG)
+- Real-time computer vision and pose estimation
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariem-rabeh&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariem-rabeh&theme=tokyo-night&hide_border=true" width="90%"/>
 
@@ -101,7 +102,7 @@
 
 ## 💬 Ask Me About
 
-Computer vision · AI applications · RAG pipelines · backend development · compilers and systems programming
+Computer vision · AI applications · RAG pipelines · agentic AI · MLOps fundamentals · backend development · compilers and systems programming
 
 <br>
 
